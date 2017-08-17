@@ -1,0 +1,24 @@
+{
+  "name": "javascript-functional-development",
+  "version": "1.0.0",
+  "description": "JavaScript development learning",
+  "scripts": {
+    
+  },
+  "author": "Ali G",
+  "license": "MIT",
+  "dependencies": {    
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.17.0",   
+    "babel-preset-latest": "6.16.0",
+    "babel-register": "6.16.3",
+    "babel-loader": "^6.2.5",
+    "webpack": "^1.13.2"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  }
+}

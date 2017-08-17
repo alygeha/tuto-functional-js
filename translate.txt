@@ -1,0 +1,4 @@
+dog chien
+cat chat
+meal repas
+blabla blalba
